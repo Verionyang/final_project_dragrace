@@ -1,0 +1,356 @@
+id,name,original_season_id,real_name,dob,gender,hometown,location,type,miss_con,final_place,safe,win,high,btm
+Q100,Akashia,F10S01,Eric Flint,"February 19, 1985",NA,NA,"Cleveland, OH, USA",Pageant,,7,0,0,0,2
+Q101,BeBe Zahara Benet,F10S01,Nea Marshall Kudi Ngwa,"March 20, 1981",Male,"Yaoundé, Cameroon","Minneapolis, MN, USA",Pageant,,1,2,3,1,1
+Q102,Jade,F10S01,David Sotomayor,"November 18, 1984",NA,"Chicago, IL, USA",NA,Comedy ,,6,2,0,0,0
+Q103,Nina Flowers,F10S01,Jorge Luis Flores Sánchez,"February 22, 1974",Male,"Denver, CO, USA","Dallas, TX, USA",Club,1,2,1,1,4,0
+Q104,Ongina,F10S01,Ryan Ong Palao,"January 6, 1982",NA,"Seattle, WA, USA","Los Angeles, CA, USA",Look,,5,0,2,2,0
+Q105,Rebecca Glasscock,F10S01,Javier José Rivera Nieves,"May 25, 1982",Male,"Ft. Lauderdale, FL, USA",NA,Look,,3,0,1,2,2
+Q106,Shannel,F10S01,Bryan Watkins,"July 3, 1979",Male,"Las Vegas, NV, USA",NA,Look,,4,1,0,2,1
+Q107,Tammie Brown,F10S01,Keith Glen Schubert,"September 15, 1980",Male,NA,"Long Beach, CA, USA",Comedy ,,8,1,0,0,0
+Q108,"Victoria ""Porkchop"" Parker",F10S01,Victor Bowling,"January 16, 1969",NA,"Raleigh, NC, USA","Los Angeles, CA, USA",Pageant,,9,0,0,0,0
+Q109,Jessica Wild,F10S02,José David Sierra,"June 10, 1980",NA,"Caguas, Puerto Rico","Boston, MA, USA",Pageant,,6,2,1,3,0
+Q110,Jujubee,F10S02,Airline Inthyrath(LO: ແອລາຍ ອິນທິຣາດ)[1],"June 21, 1984",NA,"Boston, MA, USA",NA,Comedy ,,3,2,0,3,3
+Q111,Kylie Sonique Love,F10S02,Kylie Sonique,"May 2, 1983",Female,"Albany, GA, USA","Las Vegas, NV, USA",Club,,9,2,0,0,0
+Q112,Morgan McMichaels,F10S02,Thomas White,"May 28, 1981",NA,"Dumbarton, Scotland, UK","Ontario, CA, USA",Spooky,,8,2,1,0,1
+Q113,Mystique Summers Madison,F10S02,Donté Sims,"March 28, 1984",NA,"Chicago, IL, USA","Fort Worth, TX, USA",Pageant,,10,0,0,1,0
+Q114,Nicole Paige Brooks,F10S02,Brian Christopher Pryor,"July 9, 1972",NA,"Marietta, GA, USA","Atlanta, GA, USA",Pageant,,11,1,0,0,0
+Q115,Pandora Boxx,F10S02,Michael Steck,"May 2, 1972",Genderfluid,"Rochester, NY, USA","Los Angeles, CA, USA",Look,1,5,2,0,4,0
+Q116,Raven,F10S02,David Petruschin,"April 8, 1979",NA,"Victorville, CA, USA","Riverside, CA, USA",Pageant,,2,2,2,3,2
+Q117,Sahara Davenport,F10S02,Antoine Ashley,"December 17, 1984",Male,"Dallas, TX, USA",NA,Pageant,,7,2,1,0,2
+Q118,Shangela,F10S02,Darius Jeremy Pierce,"November 22, 1981",Male,"Paris, TX, USA","Los Angeles, CA, USA",Club,,12,0,0,0,0
+Q119,Tatianna,F10S02,Joey Santolini,"December 1, 1987",NA,"Falls Church, VA, USA","Washington, D.C., USA",Look,,4,4,1,1,1
+Q120,Tyra Sanchez,F10S02,James William Ross IV,"April 22, 1988",Male,"Gainesville, FL, USA","Atlanta, GA, USA",Look,,1,1,4,4,0
+Q121,Alexis Mateo,F10S03,Alexis Mateo Pacheco,"July 24, 1979",NA,"Florida, Puerto Rico","Las Vegas, NV, USA",Pageant,,3,2,3,2,3
+Q122,Carmen Carrera,F10S03,Gabriella Carmen Roman,"April 13, 1985",Female,"Elmwood Park, NJ, USA","Los Angeles, CA, USA",Pageant,,5,3,0,1,1
+Q123,Delta Work,F10S03,Gabriel Villarreal,"January 23, 1976",NA,"Norwalk, CA, USA","Los Angeles, CA, USA",Pageant,,7,3,0,1,2
+Q124,India Ferrah,F10S03,Shane Richardson,"May 8, 1986",NA,"Dayton, OH, USA","Las Vegas, NV, USA",Club,,10,2,0,0,1
+Q125,Manila Luzon,F10S03,Karl Philip Michael Westerberg,"August 10, 1981",NA,"Cottage Grove, MN, USA","Los Angeles, CA, USAManila, Philippines",Comedy ,,2,3,3,4,1
+Q126,Mariah,F10S03,Elijah Kelly,"February 13, 1982",NA,"Gainesville, GA, USA","Los Angeles, CA, USA",Pageant,,9,1,0,1,0
+Q127,Mimi Imfurst,F10S03,Braden Chapman,"March 2, 1983",NA,"Hanson, MA, USA","Philadelphia, PA, USA",Look,,11,0,0,2,0
+Q128,Phoenix,F10S03,Brian Trapp,"December 11, 1979",NA,"Atlanta, GA, USA",NA,Spooky,,12,1,0,0,0
+Q129,Raja,F10S03,Sutan Ibrahim Karim Amrullah,"June 14, 1974",Non-Binary,"Baldwin Park, CA, USA","Los Angeles, CA, USA",Spooky,,1,3,4,4,1
+Q130,Stacy Layne Matthews,F10S03,Stacy Jones,"July 19, 1984",Female,"Back Swamp, NC, USA","Fayetteville, NC, USA",Pageant,,8,1,1,2,1
+Q131,Venus D-Lite,F10S03,Adam Daniel Guerra,"September 5, 1984",NA,"Rosemead, CA, USA","Tampa, FL, USA",Look,,13,0,0,0,0
+Q132,Yara Sofia,F10S03,Gabriel Burgos Ortiz,"May 8, 1984",NA,"Manati, Puerto Rico","Las Vegas, NV, USA",Club,1,4,2,1,6,1
+Q133,Alisa Summers,F10S04,Alex Hernandez,"June 15, 1988",NA,"Tampa, FL, USA",NA,Club,,13,0,0,0,0
+Q134,Chad Michaels,F10S04,Chad Michael Storbeck,"March 20, 1971",Male,"San Diego, CA, USA","San Diego, CA, USA",Look,,2,3,2,4,1
+Q135,Dida Ritz,F10S04,Xavier Hairston,"December 20, 1986",NA,"Lansing, MI, USA","Chicago, IL, USA",Club,,6,5,0,0,1
+Q136,Jiggly Caliente,F10S04,Bianca Castro,"November 29, 1981",Female,"Queens, New York City, NY, USA","Manila, Philippines",Comedy ,,8,3,0,1,2
+Q137,Kenya Michaels,F10S04,Kenya Olivera Bonilla,"May 8, 1990",Female,"Dorado, Puerto Rico",NA,Pageant,,5,1,0,1,0
+Q138,Lashauwn Beyond,F10S04,Lashauwn Jackson,"November 11, 1989",Female,"Ft. Lauderdale, FL, USA",NA,Spooky,,12,0,0,1,0
+Q139,Latrice Royale,F10S04,Timothy Wilcots,"February 12, 1972",NA,"Compton, CA, USA","Miami Beach, FL, USA",Pageant,1,4,4,2,1,2
+Q140,Madame LaQueer,F10S04,Carlos Melendez,"October 5, 1982",NA,"Carolina, Puerto Rico","Orange, CA, USA",Pageant,,10,1,1,0,0
+Q141,Milan,F10S04,Dwayne Cooper,"May 27, 1975",NA,"Florence, SC, USA","New York City, NY, USA",Spooky,,9,2,0,1,2
+Q142,Phi Phi O'Hara,F10S04,Jaremi Lee Carey,"October 10, 1985",Male,NA,NA,Look,,3,3,2,3,1
+Q143,Sharon Needles,F10S04,Aaron Coady,"November 28, 1981",NA,"Newton, IA, USA","Pittsburgh, PA, USA",Spooky,,1,2,5,3,1
+Q144,The Princess,F10S04,Adam Biga,"February 27, 1979",NA,"Omaha, NE, USA","Nashville, TN, USA",Pageant,,11,0,0,1,1
+Q145,Willam,F10S04,Willam Bart Belli,"June 30, 1982",NA,"Philadelphia, PA, USA","Los Angeles, CA, USA",Pageant,,7,3,2,2,1
+Q146,Alaska,F10S05,Justin Andrew Honard,"March 6, 1985",NA,"Erie, PA, USA","Los Angeles, CA, USA",Spooky,,2,2,2,4,0
+Q147,Alyssa Edwards,F10S05,Justin Dewayne Lee Johnson,"January 16, 1980",NA,"Mesquite, TX, USA","Dallas, TX, USA",Club,,6,4,1,0,2
+Q148,Coco Montrese,F10S05,Martin Cooper,"July 2, 1974",NA,"Miami, FL, USA","Las Vegas, NV, USA",Club,,5,4,1,0,3
+Q149,Detox,F10S05,Matthew Sanderson,"June 3, 1985",NA,"Orlando, FL, USA","Chicago, IL, USA",Spooky,,4,5,1,1,2
+Q150,Honey Mahogany,F10S05,Alpha Mulugeta,"December 28, 1983",Non-Binary,"San Francisco, CA, USA",NA,Comedy ,,10,2,0,1,0
+Q151,Ivy Winters,F10S05,Dustin Winters,"October 5, 1986",NA,"Greenville, MI, USA","New York City, NY, USA",Look,1,7,1,1,3,0
+Q152,Jade Jolie,F10S05,Joshua Green,"November 2, 1986",NA,"Ft. Myers, FL, USA","Louisville, KY, USA",Pageant,,8,4,0,0,0
+Q153,Jinkx Monsoon,F10S05,Jerick Hoffer,"September 18, 1987",Non-Binary,"Portland, OR, USA","Portland, OR, USA",Comedy ,,1,2,3,6,1
+Q154,Lineysha Sparx,F10S05,Andy Trinidad,"July 8, 1988",NA,"San Juan, Puerto Rico","Orlando, FL, USA",Pageant,,9,2,1,1,0
+Q155,Monica Beverly Hillz,F10S05,Monica Michelle DeJesus-Anaya,"January 31, 1985",Female,"Owensboro, KY, USA","Chicago, IL, USA",Pageant,,12,1,0,0,1
+Q156,Penny Tration,F10S05,Tony Cody,"October 12, 1972",NA,"Cincinnati, OH, USA",NA,Comedy ,,14,0,0,0,0
+Q157,Roxxxy Andrews,F10S05,Michael Feliciano,"September 23, 1983",NA,"Miami Beach, FL, United States","Orlando, FL, United States",Look,,3,1,2,5,1
+Q158,Serena ChaCha,F10S05,Myron Morgan,"September 17, 1990",NA,"La Chorrera, Panama","Fort Lauderdale, FL, USA",Club,,13,0,0,0,1
+Q159,Vivienne Pinay,F10S05,Michael Donehoo,"August 2, 1985",NA,"New York City, NY, USA","Los Angeles, CA, USA",Pageant,,11,1,0,1,0
+Q160,Adore Delano,F10S06,Daniel Anthony Noriega,"September 29, 1989",Non-Binary,"Azusa, CA, USA","Los Angeles, CA, USA",Spooky,,2,1,3,2,2
+Q161,April Carrión,F10S06,Jason Carrión,"April 23, 1989",Genderqueer,"Guaynabo, Puerto Rico",NA,Club,,11,0,0,1,1
+Q162,BenDeLaCreme,F10S06,Benjamin Putnam,"September 24, 1982",Non-Binary,"Litchfield, CT, USA","Los Angeles, CA, USA",Pageant,1,5,2,2,3,1
+Q163,Bianca Del Rio,F10S06,Roy Renè Haylock,"June 27, 1975",Male,"Gretna, LA, USA","Los Angeles, CA, USA",Comedy ,,1,2,4,5,0
+Q164,Courtney Act,F10S06,Shane Gilberto Jenek,"February 18, 1982",Genderfluid,"Brisbane, QLD, Australia","London, England, UK",Pageant,,3,5,2,1,0
+Q165,Darienne Lake,F10S06,Greg Meyer,"November 27, 1971",Male,"Rochester, NY, USA",NA,Comedy ,,4,2,1,1,3
+Q166,Gia Gunn,F10S06,Gia Keitaro Ichikawa,"May 10, 1990",Female,"Carpentersville, IL, USA","Los Angeles, CA, USA",Look,,10,2,0,1,0
+Q167,Joslyn Fox,F10S06,Patrick Allen Joslyn,"July 27, 1986",Male,"Worcester, MA, USA",NA,Pageant,,6,2,0,2,1
+Q168,Kelly Mantle,F10S06,Kelly Mantle,"July 9, 1976",Two-Spirit,"Oklahoma City, OK, USA","Los Angeles, CA, USA",Club,,14,0,0,0,0
+Q169,Laganja Estranja,F10S06,Jay Jackson,"December 28, 1988",Non-Binary Female,"Dallas, TX, USA","Los Angeles, CA, USA",Spooky,,8,4,1,0,1
+Q170,Magnolia Crawford,F10S06,Reynolds Engelhart,"April 14, 1985",Male,"Seattle, WA, USA",NA,Club,,13,0,0,0,0
+Q171,Milk,F10S06,Daniel Donigan,"June 23, 1987",Non-Binary,"Syracuse, NY, USA","New York City, NY, USA",Look,,9,1,0,2,0
+Q172,Trinity K. Bonet,F10S06,Joshua Jamal Jones,"January 31, 1991",Male,"Jacksonville, FL, USA","Atlanta, GA, USA",Pageant,,7,1,0,4,2
+Q173,Vivacious,F10S06,Osmond Vacious,"March 7, 1974",Male,NA,"New York City, NY, USA",Pageant,,12,0,0,0,1
+Q174,Ginger Minj,F10S07,Joshua Allen Eads,"September 11, 1984",Genderfluid,"Orlando, FL, USA",NA,Comedy ,,2,3,3,3,2
+Q175,Jaidynn Diore Fierce,F10S07,Christopher Williams,"December 17, 1988",Male,"Nashville, TN, USA",NA,Club,,8,2,0,3,2
+Q176,Jasmine Masters,F10S07,Martell Robinson,"October 16, 1976",Male,"Los Angeles, CA, USA",NA,Pageant,,12,1,0,0,0
+Q177,Kandy Ho,F10S07,Frank Díaz,"September 24, 1987",Male,"Cayey, Puerto Rico","Orlando, FL, USA",Look,,10,2,0,0,2
+Q178,Katya,F10S07,Brian Joseph McCook,"May 1, 1982",Male,"Boston, MA, USA","West Hollywood, CA, USA",Comedy ,1,5,3,2,4,1
+Q179,Kennedy Davenport,F10S07,Reuben Asberry Jr.,"September 9, 1982",Male,"Dallas, TX, USA",NA,Pageant,,4,3,2,4,2
+Q180,Max,F10S07,Max Malanaphy,"June 24, 1992",NA,"Hudson, WI, USA","Portsmouth, NH, USA",Spooky,,9,4,2,0,0
+Q181,Miss Fame,F10S07,Kurtis Dam-Mikkelsen,"March 30, 1985",Genderfluid,"Templeton, CA, USA","Zürich, ZH, Switzerland",Look,,7,2,0,2,0
+Q182,Mrs. Kasha Davis,F10S07,Edward Popil,"March 12, 1971",Male,"Rochester, NY, USA",NA,Club,,11,2,0,2,0
+Q183,Pearl,F10S07,Matthew James Lent,"September 11, 1990",Male,"St. Petersburg, FL, USA","Los Angeles, CA, USA",Look,,3,5,2,1,2
+Q184,Sasha Belle,F10S07,Jared Breakenridge,"March 19, 1986",Male,"Lennox, IA, USA","Iowa City, IA, USA",Pageant,,13,0,0,0,0
+Q185,Tempest DuJour,F10S07,Patrick Holt,"September 1, 1967",Male,"Durham, NC, USA","Tucson, AZ, USA",Comedy ,,14,0,0,0,0
+Q186,Trixie Mattel,F10S07,Brian Michael Firkus,"August 23, 1989",Male,"Milwaukee, WI, USA","West Hollywood, CA, USA",Comedy ,,6,2,0,2,0
+Q187,Violet Chachki,F10S07,Paul Jason Dardo,"June 13, 1992",Genderfluid,"Atlanta, GA, USA","Los Angeles, CA, USA",Look,,1,4,4,2,0
+Q205,Acid Betty,F10S08,Jamin Ruhren,"December 10, 1977",NA,"New York City, NY, USA",NA,Spooky,,8,1,0,3,0
+Q206,Bob the Drag Queen,F10S08,Christopher Caldwell,"June 22, 1986",Non-Binary,"Columbus, GA, USA","Los Angeles, CA, USA",Comedy ,,1,4,4,0,1
+Q207,Chi Chi DeVayne,F10S08,Zavion Michael Davenport,"September 24, 1985",NA,"Shreveport, LA, USA",NA,Pageant,,4,3,1,1,2
+Q208,Cynthia Lee Fontaine,F10S08,Carlos Díaz Hernández,"February 16, 1981",NA,"San Juan, PR, USA","Austin, TX, USA",Club,1,10,2,0,0,0
+Q209,Dax ExclamationPoint,F10S08,NA,NA,NA,NA,NA,Spooky,,11,1,0,0,0
+Q210,Derrick Barry,F10S08,Derrick Prentice Barry,"July 18, 1983",NA,"Modesto, CA, USA","Las Vegas, NV, USA",Look,,5,1,1,2,1
+Q211,Kim Chi,F10S08,Sang-Young Shin(KO: 신상영),"August 8, 1987",NA,"Chicago, IL, USA","Los Angeles, CA, USA",Look,,2,2,2,2,0
+Q212,Laila McQueen,F10S08,Tyler Devlin,"June 22, 1993",NA,"Gloucester, MA, USA","Chicago, IL, USA",Spooky,,12,0,0,0,1
+Q213,Naomi Smalls,F10S08,Davis Heppenstall,"September 8, 1993",NA,"Redlands, CA, USA","Los Angeles, CA, USA",Look,,3,2,1,3,1
+Q214,Naysha Lopez,F10S08,Fabian Rodriguez,"June 20, 1985",NA,"Chicago, IL, USA","Los Angeles, California, USA",Pageant,,9,1,0,0,0
+Q215,Robbie Turner,F10S08,Jeremy Baird,"July 27, 1982",NA,"Seattle, WA, USA",NA,Pageant,,7,1,1,0,1
+Q216,Thorgy Thor,F10S08,Shane Thor Galligan,"May 25, 1984",NA,"Long Island, NY, USA","New York City, NY, USA",Comedy ,,6,3,0,3,0
+Q217,Aja,F10S09,Aja Oshun,"January 4, 1994",Female,"Brooklyn, New York City, NY, USA",NA,Club,,9,4,0,1,1
+Q218,Alexis Michelle,F10S09,Alex Michaels,"October 16, 1984",NA,"New York City, NY, USA",NA,Pageant,,5,4,1,2,1
+Q219,Charlie Hides,F10S09,Charlie Hides,"July 12, 1964",Non-Binary,"Boston, MA, USA","London, England, UK",Club,,12,2,0,0,0
+Q220,Eureka,F10S09,David Lee Huggard Jr.,"August 26, 1990",Genderfluid,"Johnson City, TN, USA","Los Angeles, CA, USA",Pageant,,11,4,0,1,0
+Q221,Farrah Moan,F10S09,Cameron Clayton,"September 11, 1993",Bi Gender,"Houston, TX, USA","Los Angeles, CA, USA",Look,,8,3,0,1,1
+Q222,Jaymes Mansfield,F10S09,James Wirth,"February 19, 1990",NA,"Texas, USA","Las Vegas, NV, USA",Pageant,,14,1,0,0,0
+Q223,Kimora Blac,F10S09,Von Nguyen,"December 15, 1988",Non-Binary,"Las Vegas, NV, USA","Los Angeles, CA, USA",Club,,13,1,0,0,1
+Q224,Nina Bo'nina Brown,F10S09,Pierre Leverne Dease,"July 12, 1982",Male,"Columbia, SC, USA","Atlanta, GA, USA",Spooky,,6,4,1,1,2
+Q225,Peppermint,F10S09,Peppermint,"January 31, 1980",Female,"Wilmington, DE, USA","Manhattan, New York City, NY, USA",Pageant,,2,4,1,3,2
+Q226,Sasha Velour,F10S09,"Alexander ""Sasha"" Hedges Steinberg(RU: Александр ""Саша"" Хеджес Штайнберг)","June 25, 1987",Genderfluid/Genderqueer,"Berkeley, CA, USA","Brooklyn, New York City, NY, USA",Club,,1,3,3,5,0
+Q227,Shea Couleé,F10S09,Jaren Kyei Marrell,"February 8, 1989",Non-Binary,"Plainfield, IL, USA","Chicago, IL, USA",Pageant,,3,3,4,3,1
+Q228,Trinity the Tuck,F10S09,NA,"December 10, 1984",Non-Binary,"Birmingham, AL, USA","Orlando, FL, USA",Pageant,,4,3,3,2,1
+Q229,Valentina,F10S09,James Andrew Leyva,"May 14, 1991",Non-Binary,"Bell, CA, USA","Los Angeles, CA, USA",Look,1,7,4,1,3,0
+Q230,Amadiva,F13S01,"Pudthawee ""Aom"" Thepkraival(TH: ปัถวี ""ออม"" เทพไกรวัล)","March 24, 1993",NA,"Bangkok, Thailand",NA,Comedy ,,5,1,1,1,1
+Q231,Année Maywong,F13S01,Thainisorn Hengsoontorn(TH: ธนิสร เฮงสุนทร),"January 6, 1987",NA,"Bangkok, Thailand","Bangkok, Thailand",Club,,2,0,3,2,1
+Q232,B Ella,F13S01,Anothai Ngeesantiae(TH: อโนทัย งีสันเทียะ),"August 31, 1987",NA,"Nakhon Pathom, Thailand","Nakhon Ratchasima, Thailand",Pageant,1,4,1,0,2,0
+Q233,Bunny Be Fly,F13S01,Kittameth Seethan(TH: กฤตเมธ สีถาน),"May 23, 1991",NA,Thailand,NA,Comedy ,,9,1,0,0,0
+Q234,Dearis Doll,F13S01,Supattarapon Kasikam(TH: สุภัทรภณ กสิกรรม),"December 16, 1987",NA,"Nakhon Pathom, Thailand","Nakhon Pathom, Thailand",Look,,3,2,2,1,2
+Q235,JAJA,F13S01,Angeles R-Jay Carubio,"September 7, 1984",NA,Philippines,NA,Comedy ,,6,2,1,1,1
+Q236,Meannie Minaj,F13S01,"Mananya ""Meantra"" Puengmai(TH: มนัญญา ""มีนตรา"" พึ่งไม้)","March 23, 1991",Female,"Bangkok, Thailand",NA,Club,,10,0,1,0,0
+Q237,Morrigan,F13S01,Chaipong Piwpong(TH: ชัยพงษ์ ผิวผ่อง),"January 15, 1999",NA,"Bangkok, Thailand",NA,Pageant,,8,1,0,0,1
+Q238,Natalia Pliacam,F13S01,Assadayut Khunviseadpong(TH: อัษฎายุทธ คุณวิเศษพงษ์),"January 7, 1980",NA,"Bangkok, Thailand",NA,Pageant,,1,2,3,2,1
+Q239,Petchra,F13S01,Panupong Jalruensuk(TH: ภาณุพงศ์ เจริญสุข),"March 11, 1988",NA,"Rayong, Thailand",NA,Look,,7,2,0,1,1
+Q240,Aquaria,F10S10,Giovanni Palandrani,"February 12, 1996",NA,"West Chester, PA, USA","Brooklyn, New York City, NY, USA",Look,,1,5,4,1,0
+Q241,Asia O'Hara,F10S10,Antwan Mason Lee,"July 7, 1982",NA,"Grand Prairie, TX, USA","Dallas, TX, USA",Pageant,,4,4,2,2,1
+Q242,Blair St. Clair,F10S10,Blair Andrew Bryson,"May 16, 1995",NA,"Indianapolis, IN, USA","Washington, D.C., USA",Look,,9,2,0,3,0
+Q243,Dusty Ray Bottoms,F10S10,Dustin Rayburn,"September 27, 1987",NA,"Louisville, KY, USA","New York City, NY, USA",Spooky,,11,2,0,0,0
+Q244,Kalorie Karbdashian Williams,F10S10,Bad URL,Bad URL,Bad URL,Bad URL,Bad URL,Club,,13,0,0,0,1
+Q245,Kameron Michaels,F10S10,Dane Young,"July 23, 1986",NA,"Nashville, TN, USA","Los Angeles, CA, USA",Club,,3,3,1,3,3
+Q246,Mayhem Miller,F10S10,DeQuan Armand,"February 9, 1982",Male,"Riverside, CA, USA",NA,Pageant,,10,1,1,1,1
+Q247,Miz Cracker,F10S10,Maxwell Elias Heller,"April 19, 1984",NA,"Seattle, WA, USA","Harlem, New York City, NY, USA",Comedy ,,5,2,1,5,0
+Q248,Mo Heart,F10S10,Kevin Richardson,"May 22, 1986",Male,"Long Island, NY, USA","Palm Springs, CA, USA",Pageant,,8,4,0,1,0
+Q249,Monét X Change,F10S10,Kevin Bertin,"February 19, 1990",Non-Binary,"Brooklyn, New York City, NY, USA","Los Angeles, CA, USA",Club,1,6,2,0,5,2
+Q250,The Vixen,F10S10,Anthony Taylor,"December 11, 1990",NA,"Chicago, IL, USA",NA,Spooky,,7,3,1,0,2
+Q251,Vanessa Vanjie Mateo,F10S10,Jose Cancel,"October 3, 1991",NA,"Tampa, FL, USA","Los Angeles, CA, USA",Pageant,,14,0,0,0,0
+Q252,Yuhua Hamasaki,F10S10,Yuhua Ou,"March 1, 1990",Non-Binary,NA,"New York City, NY, USA",Pageant,,12,1,0,1,0
+Q260,Angele Anang,F13S02,Aunchalee Pokinwuttipob(TH: อัญชลี โภคินวุฒิภพ),"September 24, 1994",Female,NA,"Nakhon Ratchasima, Thailand",Pageant,,1,2,5,2,2
+Q261,Bandit,F13S02,Bandit Janthawan(TH: บัณฑิต จันทวรรณ),"July 10, 1985",NA,NA,"Bangkok, Thailand",Spooky,,4,3,1,4,0
+Q262,Genie,F13S02,Amed Ramesh Gurnani,"November 24, 1989",NA,NA,"Los Angeles, CA, USA",Look,,8,3,2,0,0
+Q263,Kana Warrior,F13S02,Khanasak Nakrob(TH: คณาศักดิ์ นักรบ),31,NA,NA,"Nakhon Sawan, Thailand",Comedy ,,2,2,2,0,3
+Q264,Kandy Zyanide,F13S02,Sukun Dongnoi(TH: สุกุล ดงน้อย),"November 26, 1993",Female,"Chiang Mai, Thailand",NA,Pageant,,3,2,3,1,0
+Q265,Katy Killer,F13S02,Apidech Rachchompu(TH: อภิเดช ราชชมภู),24,NA,NA,Bangkok,Pageant,,12,1,0,0,0
+Q266,M Stranger Fox,F13S02,"Chakgai ""M"" Jermkwan(TH: จักกาย ""เอ็ม"" เจิมขวัญ)","September 23, 1985",NA,NA,"Bangkok, Thailand",Club,,14,0,0,0,0
+Q267,Maya B'Haro,F13S02,Chairath Dhammakirati(TH: ชัยรัตน์ ธรรมกิรติ),"July 7, 1986",NA,NA,"Phuket, Thailand",Pageant,1,11,0,1,1,0
+Q268,Miss Gimhuay,F13S02,"Warit ""First"" Kesmanee(TH: วริทธิ์ ""เฟิร์ส"" เกษมณี)",24,NA,NA,NA,Comedy ,,9,0,1,4,0
+Q269,Mocha Diva,F13S02,Jay Venn,"October 16, 1989",NA,Philippines,"Hong Kong, China",Pageant,,10,2,1,1,1
+Q270,Silver Sonic,F13S02,"Pumin ""Satang"" Boonmathum(TH: ภูมินทร์ ""สตางค์"" บุญมาธรรม)","July 3, 1997",NA,"Khon Kaen, Thailand","Bangkok, Thailand",Club,,13,0,0,0,1
+Q271,Srimala,F13S02,Monmingkwan Muangmeeros(TH: มนต์มิ่งขวัญ ม่วงมีรส),"September 23, 1990",NA,NA,Udon Thani,Comedy ,,6,2,1,1,3
+Q272,Tormai,F13S02,Apiyarnan Jongpakdee(TH: อภิญานันท์ จงภักดี),"August 26, 1991",NA,NA,"Nakhon Si Thammarat, Thailand",Pageant,,7,0,1,2,1
+Q273,Vanda Miss Joaquim,F13S02,Azizul Mahathir,"June 8, 1990",NA,NA,Singapore,Pageant,,5,2,2,1,2
+Q274,A'keria C. Davenport,F10S11,Gregory D'Wayne,"March 1, 1988",NA,"Dallas, TX, USA","Houston, TX, USA",Pageant,,3,5,2,3,2
+Q275,Ariel Versace,F10S11,Bryan Philip Neel,"April 13, 1992",NA,"Cherry Hill, NJ, USA","Los Angeles, CA, USA",Look,,11,2,0,1,0
+Q276,Brooke Lynn Hytes,F10S11,Brock Edward Hayhoe,"March 10, 1986",NA,"Toronto, ON, Canada","Los Angeles, CA, USA",Club,,2,0,3,6,2
+Q277,Honey Davenport,F10S11,James Clark,"August 13, 1986",Non-Binary,"Philadelphia, PA, USA","Los Angeles, CA, USA",Pageant,,13,2,0,0,0
+Q278,Kahanna Montrese,F10S11,Tyrone Hardiman,"March 25, 1993",NA,"Denver, CO, USA","Las Vegas, NV, USA",Pageant,,14,0,0,0,1
+Q279,Mercedes Iman Diamond,F10S11,Curran,"December 12, 1986",Male,"Minneapolis, MN, USA",NA,Club,,12,0,0,1,1
+Q280,Nina West,F10S11,Andrew Levitt,"August 10, 1978",NA,"Greentown, OH, USA","Columbus, OH, USA",Comedy ,1,6,4,2,1,0
+Q281,Plastique Tiara,F10S11,Duc Tran Nguyen,"April 11, 1997",NA,"Ho Chi Minh City, Vietnam","Dallas, TX, USA",Look,,8,3,2,3,1
+Q282,Ra'Jah O'Hara,F10S11,Benni Miller,"December 31, 1985",NA,"Dallas, TX, USA",NA,Pageant,,9,3,0,0,3
+Q283,Scarlet Envy,F10S11,Jacob James,"February 26, 1992",NA,"Louisville, KY, USA","Brooklyn, New York City, NY, USA",Look,,10,3,1,0,1
+Q284,Shuga Cain,F10S11,Jesus Martinez,"November 20, 1977",NA,"Magalia, CA, USA","New York City, NY, USA",Club,,7,3,0,3,2
+Q285,Silky Nutmeg Ganache,F10S11,Reginald Nadjae Steele,"December 31, 1990",NA,"Moss Point, MS, USA","Los Angeles, CA, USA",Comedy ,,4,3,2,3,1
+Q286,Soju,F10S11,Tony Hyunsoo Ha,"May 8, 1991",NA,"Chicago, IL, USA","Los Angeles, CA, USA",Look,,15,0,0,0,0
+Q287,Yvie Oddly,F10S11,Jovan Bridges,"August 22, 1993",NA,NA,"Denver, CO",Spooky,,1,3,2,6,1
+Q288,Baga Chipz,F14S01,Mark Botfield,"November 24, 1989",NA,"West Bromwich, West Midlands, England, UK","Walthamstow, East London, England, UK",Comedy ,,3,1,3,1,1
+Q289,Blu Hydrangea,F14S01,Joshua Cargill,"February 15, 1996",Non-Binary,"Royal Hillsborough, County Down, Northern Ireland, UK","Belfast, County Antrim, Northern Ireland, UK",Comedy ,,5,3,1,0,1
+Q290,Cheryl Hole,F14S01,Luke Underwood,"October 18, 1993",NA,"Chelmsford, Essex, England, UK","Chelmsford, Essex, England, UK",Pageant,,4,2,0,0,1
+Q291,Crystal,F14S01,Colin Munro Seymour,"November 1, 1984",Male,"Halifax, NS, Canada","Hackney, East London, England, UK",Look,,6,2,0,1,1
+Q292,Divina De Campo,F14S01,Owen Farrow,"May 5, 1984",Non-Binary,"Brighouse, West Yorkshire, England, UK","Brighouse, West Yorkshire, England, UK",Pageant,,2,2,3,1,0
+Q293,Gothy Kendoll,F14S01,Sam Handley,"June 19, 1997",Non-Binary,"Leicester, Leicestershire, England, UK","London, England, UK",Spooky,,10,0,0,0,0
+Q294,Scaredy Kat,F14S01,Alex Cubb,"May 18, 1999",NA,"Cricklade, Wiltshire, England, UK","London, England, UK",Spooky,,9,1,0,0,0
+Q295,Sum Ting Wong,F14S01,Bo Zeng,"May 9, 1989",NA,"Birmingham, West Midlands, England, UK","Reading, Berkshire, England, UK",Look,,7,0,0,2,1
+Q296,Vinegar Strokes,F14S01,Daniel Jacob,"August 21, 1984",NA,"Enfield, North London, England, UK","London, England, UK",Comedy ,,8,0,0,1,1
+Q297,Aiden Zhane,F10S12,Devin Lewis,"July 16, 1990",Male,"Howell, MI, USA","Acworth, GA, USA",Spooky,,10,1,0,2,0
+Q298,Brita,F10S12,Jesse Havea,"September 16, 1985",NA,"Phoenix, AZ, USA","New York City, NY, USA",Pageant,,9,1,0,1,2
+Q299,Crystal Methyd,F10S12,Cody Harness,"April 16, 1991",Non-Binary,"Springfield, MO, USA","Los Angeles, CA, USA",Comedy ,,2,3,1,4,1
+Q300,Dahlia Sin,F10S12,Erick Anthony,"May 13, 1991",Non-Binary,"New York City, NY, USA","Los Angeles, CA, USA",Pageant,,13,0,0,0,0
+Q301,Gigi Goode,F10S12,Gigi Geggie,"December 2, 1997",Non-Binary,"Woodstock, IL, USA","Los Angeles, CA, USA",Look,,3,3,4,1,0
+Q302,Heidi N Closet,F10S12,Trevien Anthonie Cheek,"September 29, 1994",NA,"Ramseur, NC, USA","Los Angeles, CA, USA",Comedy ,1,6,2,1,2,3
+Q303,Jackie Cox,F10S12,Darius Rose,"April 10, 1985",Gender Expansive,"Halifax, NS, Canada","Manhattan, New York City, NY, USA",Club,,5,1,0,6,2
+Q304,Jaida Essence Hall,F10S12,Jared Johnson,"December 9, 1986",Male,"Milwaukee, WI, USA","West Allis, WI, USA",Pageant,,1,4,4,3,1
+Q305,Jan,F10S12,Charles Joseph,"June 11, 1993",NA,"Old Bridge, NJ, USA","Manhattan, New York City, NY, USA",Look,,8,3,0,3,0
+Q306,Nicky Doll,F10S12,Karl Sanchez,"March 14, 1991",Non-Binary,"Marseille, France","New York City, NY, USA",Pageant,,11,0,0,1,1
+Q307,Rock M. Sakura,F10S12,Bryan Steven Johnson Bradford,"October 15, 1990",Non-Binary,"Sunnyvale, CA, USA","Los Angeles, CA, USA",Spooky,,12,1,0,0,0
+Q308,Sherry Pie,F10S12,Joey Gugliemelli,"November 14, 1991",Male,"Saratoga Springs, NY, USA",NA,Comedy ,,4,4,2,2,0
+Q309,Widow Von'Du,F10S12,Ray Fry,"April 17, 1989",NA,"Kansas City, MO, USA",NA,Club,,7,4,1,1,1
+Q310,Mariah Paris Balenciaga,F11S05,Elijah Kelly,"February 13, 1982",NA,"Gainesville, GA, USA","Los Angeles, CA, USA",Club,,8,1,0,0,1
+Q311,Anastarzia Anaquway,F15S01,Jermaine Aranha,"January 21, 1982",NA,NA,"Toronto, ON, Canada",Pageant,,10,2,0,0,0
+Q312,BOA,F15S01,Ryan Boa,"May 9, 1995",NA,"Windsor, ON, Canada","Toronto, ON, Canada",Comedy ,,7,0,0,2,0
+Q313,Ilona Verley,F15S01,Ilona Verley,"April 17, 1995",Two-Spirit Non-Binary Female,"Lytton, BC, Canada","Vancouver, BC, Canada",Club,,6,3,0,0,2
+Q314,Jimbo,F15S01,James Insell,"November 10, 1983",NA,"London, ON, Canada","Victoria, BC, Canada",Spooky,,4,2,1,3,0
+Q315,Juice Boxx,F15S01,Jo Primeau,"September 20, 1988",NA,"Essex, ON, Canada","Toronto, ON, Canada",Look,,12,0,0,0,0
+Q316,Kiara,F15S01,Dimitri Nana-Côté,"July 28, 1998",NA,"Quebec City, QC, Canada","Montréal, QC, Canada",Look,,8,1,0,2,0
+Q317,Kyne,F15S01,Kyne Santos,"April 5, 1998",NA,NA,"Kitchener, ON, CanadaWaterloo, ON, Canada",Pageant,,11,0,0,0,0
+Q318,Lemon,F15S01,Christopher Elliott Baptista,"September 1, 1995",Male,"Toronto, ON, Canada","Pickering, ON, Canada",Pageant,,5,2,2,1,1
+Q319,Priyanka,F15S01,Mark Suknanan,"May 28, 1991",NA,"Whitby, ON, Canada","Toronto, ON, Canada",Pageant,,1,4,3,1,2
+Q320,Rita Baga,F15S01,Jean-François Guèvremont,"May 27, 1987",NA,"Boucherville, QC, Canada","Montréal, QC, Canada",Spooky,,2,3,3,1,2
+Q321,Scarlett BoBo,F15S01,Matthew Cameron,"December 1, 1989",NA,"Ottawa, ON, Canada","Vancouver, BC, Canada",Comedy ,,3,3,1,5,0
+Q322,Tynomi Banks,F15S01,Sheldon McIntosh,"June 4, 1981",NA,"Pickering, ON, Canada","Toronto, ON, Canada",Pageant,1,9,1,0,0,2
+Q323,Chelsea Boy,F16S01,Brian van der Heijden,"November 13, 1993",Non-Binary,NA,"Amsterdam, North Holland, Netherlands",Spooky,,5,1,0,4,0
+Q324,Envy Peru,F16S01,Boris Itzkovich Escobar,"April 22, 1989",NA,NA,"Amsterdam, North Holland, Netherlands",Pageant,,1,3,5,0,0
+Q325,Janey Jacké,F16S01,Justin Mooijer,"April 8, 1992",Male,"Volendam, North Holland, Netherlands","Amsterdam, North Holland, Netherlands",Club,,2,3,2,1,1
+Q326,Ma'Ma Queen,F16S01,Dennis Bijleveld,"May 14, 1990",Non-Binary,"Doetinchem, Gelderland, Netherlands","Rotterdam, South Holland, Netherlands",Pageant,1,3,1,1,0,2
+Q327,Madame Madness,F16S01,Rowan Gerritsen,"August 10, 1996",Male,NA,"Amsterdam, North Holland, Netherlands",Spooky,,7,1,0,0,1
+Q328,Megan Schoonbrood,F16S01,Michael Alexander Schoonbrood,"August 23, 1988",NA,NA,"Rotterdam, South Holland, Netherlands",Pageant,,8,0,0,0,1
+Q329,Miss Abby OMG,F16S01,Henrique dos Santos,"December 15, 1994",NA,"Breda, North Brabant, Netherlands","Amsterdam, North Holland, Netherlands",Pageant,,4,1,0,2,4
+Q330,Patty Pam-Pam,F16S01,Pieter Roberts,"August 5, 1986",NA,NA,"Amsterdam, North Holland, Netherlands",Pageant,,9,1,0,0,0
+Q331,Roem,F16S01,Willem Pasterkamp,"February 10, 1999",NA,NA,"Tilburg, North Brabant, Netherlands",Spooky,,10,0,0,0,0
+Q332,Sederginne,F16S01,Serge Quik,"September 8, 1994",NA,"Antwerp, Antwerp, Belgium","Amsterdam, North Holland, Netherlands",Comedy ,,6,0,0,4,0
+Q333,Denali,F10S13,Cordero Zuckerman,"April 1, 1992",Male,"Fairbanks, AK, USA","Chicago, IL, USA",Comedy ,,8,3,2,2,1
+Q334,Elliott with 2 Ts,F10S13,Elliott Puckett,"July 30, 1993",Male,"Ennis, TX, USA","Las Vegas, NV, USA",Pageant,,9,3,0,2,1
+Q335,Gottmik,F10S13,Kade Gottlieb,"August 19, 1996",Male,"Scottsdale, AZ, USA","Los Angeles, CA, USA",Pageant,,3,3,3,4,0
+Q336,Joey Jay,F10S13,Joseph,"August 14, 1990",Genderfluid,"Madison, WI, USA","Phoenix, AZ, USA",Pageant,,12,1,0,0,0
+Q337,Kahmora Hall,F10S13,Paul Tran,"September 13, 1991",NA,"Chicago, IL, USA",NA,Look,,13,0,0,0,0
+Q338,Kandy Muse,F10S13,Kevin Gabriel Candelario,"November 3, 1994",Male,"The Bronx, New York City, NY, USA","Los Angeles, CA, USA",Pageant,,2,2,2,4,3
+Q339,LaLa Ri,F10S13,LaRico Potts,"August 28, 1990",Male,"Atlanta, GA, USA",NA,Club,1,10,1,1,1,1
+Q340,Olivia Lux,F10S13,Fred Carlton,"March 14, 1994",Male,"Buena, NJ, USA","New York City, NY, USA",Pageant,,5,3,3,0,1
+Q341,Rosé,F10S13,Ross Matthew McCorkell,"May 26, 1989",Male,"Houston, TX, USA","Manhattan, New York City, NY, USA",Comedy ,,4,2,3,4,0
+Q342,Symone,F10S13,Reginald Gavin,"January 14, 1995",Male,"Conway, AR, USA","Los Angeles, CA, USA",Club,,1,3,6,2,2
+Q343,Tamisha Iman,F10S13,Will Crawford,"October 16, 1970",Male,"Birmingham, AL, USA","Atlanta, GA, USA",Pageant,,11,1,0,1,0
+Q344,Tina Burner,F10S13,Kristian Seeber,"November 10, 1980",Male,"Lowville, NY, USA","Manhattan, New York City, NY, USA",Pageant,,7,4,1,2,0
+Q345,Utica Queen,F10S13,Ethan Mundt,"June 2, 1995",NA,"Utica, MN, USA","Chicago, IL, USA",Pageant,,6,2,1,2,2
+Q346,A'Whora,F14S02,George James Boyle,"September 23, 1996",NA,"Worksop, Nottinghamshire, England, UK","London, England, UK",Pageant,,5,2,2,2,0
+Q347,Asttina Mandella,F14S02,Aston Joshua,"February 11, 1993",NA,"Stratford, East London, England, UK","London, England, UK",Club,,11,1,1,0,0
+Q348,Bimini Bon-Boulash,F14S02,Tommy Hibbitts,"May 12, 1993",Non-Binary,"Great Yarmouth, Norfolk, England, UK","London, England, UK",Look,,2,2,4,2,1
+Q349,Cherry Valentine,F14S02,George Ward,"November 30, 1993",Genderfluid,"Darlington, County Durham, England, UK","London, England, UK",Pageant,,12,1,0,0,0
+Q350,Ellie Diamond,F14S02,Elliot Glen,"December 20, 1998",NA,"Broughty Ferry, Dundee, Scotland, UK","Manchester, England, UK",Comedy ,,4,4,0,3,1
+Q351,Ginny Lemon,F14S02,Lewis Croucher,"February 6, 1989",Non-Binary,"Worcester, Worcestershire, England, UK","Worcester, Worcestershire, England, UK",Spooky,,10,2,0,0,1
+Q352,Joe Black,F14S02,Joe Black,"December 23, 1989",NA,"Portsmouth, Hampshire, England, UK","Brighton, East Sussex, England, UK",Spooky,,8,0,0,0,0
+Q353,Lawrence Chaney,F14S02,Lawrence Maidment,"October 16, 1996",NA,"Helensburgh, Dunbartonshire, Scotland, UK","Glasgow, Scotland, UK",Comedy ,,1,0,4,3,1
+Q354,Sister Sister,F14S02,"Philip ""Pip"" Doran","September 2, 1988",NA,"Liverpool, Merseyside, England, UK","Liverpool, Merseyside, England, UK",Comedy ,,6,2,0,1,1
+Q355,Tayce,F14S02,Tayce Szura-Radix,"May 28, 1994",NA,"Newport, Gwent, Wales, UK","London, England, UK",Pageant,,3,3,1,1,4
+Q356,Tia Kofi,F14S02,Lawrence Bolton,"September 30, 1990",NA,"Essex, England, UK","Clapham, South London, England, UK",Club,,7,2,0,1,2
+Q357,Veronica Green,F14S02,Kevin Max Grogan,"April 23, 1985",NA,"Rochdale, Lancashire, England, UK","London, England, UK",Pageant,,9,1,1,1,0
+Q358,Anita Wigl'it,F17S01,Nicholas Kennedy-Hall,"July 8, 1989",NA,"Leigh, New Zealand","Auckland, New Zealand",Spooky,,8,1,1,1,0
+Q359,Art Simone,F17S01,Jack Daye,"September 9, 1992",NA,"Geelong, VIC, Australia","Melbourne, VIC, Australia",Comedy ,,2,2,0,2,0
+Q360,Coco Jumbo,F17S01,Luke Viti Waqa,"February 14, 1991",NA,"Coffs Harbour, NSW, Australia","Sydney, NSW, Australia",Pageant,,9,0,0,0,1
+Q361,Elektra Shock,F17S01,James Luck,"October 1, 1993",Male,"Invercargill, Southland, New Zealand","Auckland, New Zealand",Club,,5,1,1,0,2
+Q362,Etcetera Etcetera,F17S01,Oliver Levi-Malouf,"March 12, 1998",Non-Binary,"Canberra, ACT, Australia","Sydney, NSW, Australia",Spooky,,7,3,0,0,0
+Q363,Jojo Zaho,F17S01,John Ridgeway,"November 30, 1990",NA,"Newcastle, NSW, Australia","Newcastle, NSW, Australia",Look,,10,0,0,0,0
+Q364,Karen from Finance,F17S01,Richard Chadwick,"April 15, 1989",Male,"Melbourne, VIC, Australia","Melbourne, VIC, Australia",Comedy ,,3,1,1,1,1
+Q365,Kita Mean,F17S01,Nick Nash,"April 14, 1986",NA,"Auckland, New Zealand","Pukekohe, New Zealand",Look,,1,3,2,2,1
+Q366,Maxi Shield,F17S01,Kris Elliot,"June 1, 1974",NA,"Ballina, NSW, Australia","Sydney, NSW, Australia",Pageant,,6,1,0,1,1
+Q367,Scarlet Adams,F17S01,Anthony Price,"February 17, 1993",NA,"Perth, WA, Australia","Sydney, NSW, Australia",Club,,4,1,3,1,1
+Q368,Arantxa Castilla La Mancha,F18S01,José Méndez García,"December 1, 1997",Non-Binary,"Badajoz, EX, Spain","Madrid, MD, Spain",Club,,7,2,0,0,1
+Q369,Carmen Farala,F18S01,Daniel Mora Rojas,"November 4, 1989",Male,"Sevilla, AN, Spain","Madrid, MD, Spain",Look,,1,1,4,2,0
+Q370,Dovima Nurmi,F18S01,Rafael De Lorente,"June 9, 1996",Male,NA,"Barcelona, CT, Spain",Pageant,,5,3,0,0,2
+Q371,Drag Vulcano,F18S01,Isidro Javier Pérez Mateo,"June 2, 1992",Male,"Gáldar, CN, Spain","Las Palmas, CN, Spain",Comedy ,,9,1,0,0,0
+Q372,Hugáceo Crujiente,F18S01,Hugo Díaz,"December 2, 1995",Non-Binary,"Getafe, MD, Spain","Valencia, VC, Spain",Spooky,,6,2,1,0,1
+Q373,Inti,F18S01,José Otero Aguilera,"November 20, 2000",Non-Binary,"Madrid, MD, Spain","Antwerp, ANT, Belgium",Club,,8,1,0,0,1
+Q374,Killer Queen,F18S01,Iván Soler Gil,"February 2, 1989",Male,NA,"Madrid, MD, Spain",Comedy ,,2,3,1,1,2
+Q375,Pupi Poisson,F18S01,Alberto Zimmer,"April 2, 1982",Male,"Madrid, MD, Spain","Madrid, MD, Spain",Comedy ,1,4,0,1,3,0
+Q376,Sagittaria,F18S01,Iván Flores,"July 13, 1998",Male,NA,"Barcelona, CT, Spain",Pageant,,3,2,1,2,2
+Q377,The Macarena,F18S01,Isaac Garabito López,"May 25, 1991",Non-Binary,NA,"San Fernando, Cádiz, AN, Spain",Club,,10,0,0,0,0
+Q378,Ivy-Elyse,F16S02,RyanTino Troenokarso,"February 10, 1986",Male,NA,"Amsterdam, North Holland, Netherlands",Pageant,,7,0,0,0,2
+Q379,Juicy Kutoure,F16S02,Mishel Bronx,"January 24, 1997",Genderqueer,NA,"Amsterdam, North Holland, Netherlands",Pageant,,10,0,0,0,0
+Q380,Keta Minaj,F16S02,Bobby Snijder,"October 15, 1980",Male,TBA,"Amsterdam, North Holland, Netherlands",Club,,4,1,3,2,0
+Q381,Love Masisi,F16S02,Pierre Alexandre,"July 9, 1978",Non-Binary,"New York City, NY, USA","Amsterdam, North Holland, Netherlands",Spooky,,8,1,0,1,0
+Q382,My Little Puny,F16S02,Boris Schreurs,"July 9, 1982",Male,"Leiden, South Holland, Netherlands","Amsterdam, North Holland, Netherlands",Spooky,,2,2,2,2,1
+Q383,Reggy B,F16S02,Bram Louts,"April 20, 1996",Male,NA,"Amsterdam, North Holland, Netherlands",Club,,9,0,0,0,1
+Q384,Tabitha,F16S02,Edson de Randamie,"April 1, 1975",Male,NA,"Amsterdam, North Holland, Netherlands",Club,1,5,1,0,1,1
+Q385,The Countess,F16S02,Tom Haegens,"April 4, 1999",Male,NA,"Amsterdam, North Holland, Netherlands",Look,,6,2,1,0,1
+Q386,Vanessa Van Cartier,F16S02,Vanessa Crokaert,"December 3, 1979",Female,"Zele, East Flanders, Belgium","Rotterdam, South Holland, Netherlands",Club,,1,3,2,1,0
+Q387,Vivaldi,F16S02,Tim Loohuis,"May 6, 1999",Non-Binary,NA,"Enschede, Overijssel, Netherlands",Club,,3,1,1,3,2
+Q388,Anubis,F14S03,Charli Paul Frank Monét Finch,"August 14, 2001",Non-Binary,"Brighton, East Sussex, England, UK","Brighton, East Sussex, England, UK",Comedy ,,12,0,0,0,0
+Q389,Charity Kase,F14S03,Harry Whitfield,"November 16, 1996",NA,"Rufford, Lancashire, England, UK","London, England, UK",Spooky,,8,2,0,0,1
+Q390,Choriza May,F14S03,Adrián Martín,"February 20, 1991",NA,NA,"Newcastle, Tyne and Wear, England, UK",Comedy ,,6,3,1,0,0
+Q391,Elektra Fence,F14S03,Julian Riley,"January 14, 1992",NA,"Burnley, Lancashire, England, UK","London, England, UK",Club,,11,0,0,0,1
+Q392,Ella Vaday,F14S03,Nicholas Collier,"September 23, 1988",NA,"Dagenham, East London, England, UK","Dagenham, East London, England, UK",Pageant,,2,3,4,2,0
+Q393,Kitty Scott-Claus,F14S03,Louis Westwood,"February 20, 1992",NA,"Birmingham, West Midlands, England, UK","London, England, UK",Comedy ,,3,4,2,3,0
+Q394,Krystal Versace,F14S03,Luke Fenn,"October 10, 2001",NA,"Royal Tunbridge Wells, Kent, England, UK","London, England, UK",Look,,1,2,3,3,1
+Q395,River Medway,F14S03,Dexter Clift,"April 8, 1998",NA,"Medway, Kent, England, UK",NA,Club,,7,3,1,0,0
+Q396,Scarlett Harlett,F14S03,Harry Luke Mulvany,"August 2, 1994",NA,"Isle of Dogs, East London, England, UK","London, England, UK",Pageant,,5,2,1,1,2
+Q397,Vanity Milan,F14S03,Christopher Alexander Adamson,"October 22, 1991",NA,"Mitcham, South London, England, UK","London, England, UK",Look,,4,2,1,1,3
+Q398,Victoria Scone,F14S03,Emily Diapre,"April 6, 1993",Female,"Portsmouth, Hampshire, England, UK","Cardiff, Wales, UK",Comedy ,,10,1,0,0,0
+Q399,Adriana,F15S02,Daniel Albornoz,"September 3, 1991",NA,"Quebec City, QC, Canada","Montréal, QC, Canada",Pageant,,5,2,1,1,0
+Q400,Beth,F15S02,Rolland Bissonette,"January 14, 1997",Two-Spirit,"Nelson, BC, Canada","Vancouver, BC, Canada",Comedy ,,12,0,0,0,0
+Q401,Eve 6000,F15S02,NA,"June 20, 1991",Non-Binary Female,"London, ON, Canada","Toronto, ON, Canada",Pageant,,8,0,0,1,1
+Q402,Gia Metric,F15S02,Giorgio Triberio,"April 16, 1992",Non-Binary,"Toronto, ON, Canada","Vancouver, BC, Canada",Club,,4,1,1,4,2
+Q403,Icesis Couture,F15S02,Steven Granados-Portelance,"February 3, 1987",NA,"Ottawa, ON, Canada","Ottawa, ON, Canada",Pageant,,1,2,4,2,2
+Q404,Kendall Gender,F15S02,Kenneth Wyse,"July 16, 1990",Male,NA,"Vancouver, BC, Canada",Comedy ,,2,2,2,1,1
+Q405,Kimora Amour,F15S02,Justin Monroe,"October 26, 1987",Male,TBA,"Scarborough, Toronto, ON, Canada",Club,,6,4,0,2,0
+Q406,Océane Aqua-Black,F15S02,Thierry Simard,"August 4, 1985",NA,"Baie-Saint-Paul, Charlevoix, QC, Canada","Quebec City, QC, Canada",Club,,11,1,0,0,0
+Q407,Pythia,F15S02,Christos Darlasis(EL: Χρήστος Δαρλάσης),"October 4, 1995",Non-Binary,"Argos, Greece","Montréal, QC, Canada",Comedy ,,3,2,3,3,0
+Q408,Stephanie Prince,F15S02,Stephen Pasay,"November 4, 1997",NA,NA,"Calgary, AB, Canada",Club,,10,1,0,1,0
+Q409,Suki Doll,F15S02,André Pham,"July 4, 1993",NA,"Montréal, QC, Canada","Montréal, QC, Canada",Spooky,1,9,1,0,1,0
+Q410,Synthia Kiss,F15S02,Daniel Finlan,"March 23, 1992",NA,"Peterborough, ON, Canada","Vancouver, BC, Canada",Comedy ,,7,2,1,0,2
+Q411,Ava Hangar,F19S01,Riccardo Massidda,36,Male,"Carbonia, Sardinia, Italy","Rome, Lazio, Italy",Pageant,,5,2,0,0,2
+Q412,Divinity,F19S01,Maurizio Perillo,"May 24, 1994",Male,"Naples, Campania, Italy","Naples, Campania, Italy",Club,,6,1,1,0,1
+Q413,Elecktra Bionic,F19S01,Mattia Di Renzo,"May 16, 1994",Genderfluid,"Beinasco, Piedmont, Italy","Turin, Piedmont, Italy",Look,,1,4,1,1,0
+Q414,Enorma Jean,F19S01,Davide Gatto,46,Male,"Milan, Lombardy, Italy","Milan, Lombardy, Italy",Pageant,,7,2,1,0,0
+Q415,Farida Kant,F19S01,Riccardo Occhilupo,"November 1, 1987",Male,"Lecce, Apulia, Italy","Lecce, Apulia, Italy",Spooky,,2,3,2,0,0
+Q416,Ivana Vamp,F19S01,Daniele Alì,"April 25, 1989",Male,"Arezzo, Tuscany, Italy","Arezzo, Tuscany, Italy",Comedy ,,8,0,0,1,0
+Q417,Le Riche,F19S01,Alberto Riccobono,35,Male,"Palermo, Sicily, Italy","Palermo, Sicily, Italy",Comedy ,,3,1,1,1,2
+Q418,Luquisha Lubamba,F19S01,Luca Marchi,"March 29, 1988",Male,"Rome, Lazio, Italy","Bologna, Emilia-Romagna",Club,1,4,0,0,2,2
+Q419,Alyssa Hunter,F10S14,Joshua Enrique Ortolaza Resto,"February 19, 1995",NA,"San Juan, Puerto Rico","Cataño, Puerto Rico",Club,,13,1,0,0,0
+Q420,Angeria Paris VanMicheals,F10S14,Tommie Laron,"July 25, 1993",NA,"Atlanta, GA, USA","Atlanta, GA, USA",Pageant,,3,5,2,4,2
+Q421,Bosco,F10S14,Chris Constantino,"June 11, 1993",Female,"Great Falls, MT, USA","Seattle, WA, USA",Pageant,,4,5,3,2,1
+Q422,Daya Betty,F10S14,Trenton Clarke,"February 19, 1996",NA,"Springfield, MO, USA","Chicago, IL, USA",Spooky,,5,5,1,2,2
+Q423,DeJa Skye,F10S14,Willie Redman,"April 22, 1990",NA,NA,"Fresno, CA, USA",Comedy ,,6,4,1,3,1
+Q424,Jasmine Kennedie,F10S14,Kyle Koritkowski,"May 22, 1999",Female,"Morgantown, WV, USA","Brooklyn, New York City, NY, USA",Pageant,,8,3,0,1,4
+Q425,Jorgeous,F10S14,Jorge Meza,"November 27, 1999",Male,"San Antonio, TX, USA","Nashville, TN, USA",Look,,7,3,1,3,4
+Q426,June Jambalaya,F10S14,Tyron'e Porter,June 1991,Male,"Jacksonville, FL, USA","Los Angeles, CA, USA",Club,,14,0,0,0,1
+Q427,Kerri Colby,F10S14,Elyse Alessandra Anderson,"July 30, 1996",Female,"Dallas, TX, USA","Los Angeles, CA, USA",Pageant,,9,5,0,0,1
+Q428,"Kornbread ""The Snack"" Jeté",F10S14,Demoria Elise Williams,"January 14, 1992",Female,"Columbia, SC, USA","Los Angeles, CA, USA",Club,1,12,1,1,0,0
+Q429,Lady Camden,F10S14,Rex Wheeler,"August 9, 1990",NA,"Camden Town, England, UK","Sacramento, CA, USA",Comedy ,,2,4,3,4,1
+Q430,Maddy Morphosis,F10S14,Daniel Truitt,"September 2, 1994",Male,"Fayetteville, AR, USA","Fayetteville, AR, USA",Pageant,,10,2,0,0,1
+Q431,Orion Story,F10S14,Chance Lambert,"June 25, 1996",NA,"Grand Rapids, MI, USA","Grand Rapids, MI, USA",Pageant,,11,1,0,0,0
+Q432,Willow Pill,F10S14,Willow Patterson,"January 22, 1995",Trans Femme,"Denver, CO, USA","Chicago, IL, USA",Comedy ,,1,4,2,6,2
+Q433,Pangina Heals,F20S01,Pan Pan Narkprasert(TH: ปันปัน นาคประเสริฐ)[6],"July 21, 1988",Male,"Samut Prakan, Thailand","Bangkok, Thailand",Club,,6,0,4,2,0
+Q434,Ariel Rec,F18S02,Rubén Carrascosa,"July 5, 1988",Male,"Madrid, MD, Spain","Madrid, MD, Spain",Club,,11,1,0,0,0
+Q435,Diamante Merybrown,F18S02,Jhemeler Castillo,"October 29, 1995",Non-Binary,"Zaragoza, AR, Spain","Madrid, MD, Spain",Club,,7,2,0,1,1
+Q436,Drag Sethlas,F18S02,Borja Casillas Toledo,"January 26, 1991",Male,"Las Palmas, CN, Spain","Las Palmas, CN, Spain",Spooky,,6,3,1,1,0
+Q437,Estrella Xtravaganza,F18S02,Fernando Carretero Vega,"December 2, 1995",Male,"Barcelona, CT, Spain","Madrid, MD, Spain",Look,,2,4,2,1,2
+Q438,Jota Carajota,F18S02,Juan José Torres,"December 24, 2002",NA,"Jerez de la Frontera, Cádiz, AN, Spain","Madrid, MD, Spain",Look,,9,1,0,0,1
+Q439,Juriji Der Klee,F18S02,Julia Carmen Rivet Jimenez,"August 8, 1990",Female,"Brussels, Belgium","Brussels, Belgium",Club,,5,3,0,3,1
+Q440,Marina,F18S02,Joan López Galo,34,Non-Binary,"Barcelona, CT, Spain","Madrid, MD",Comedy ,,4,3,1,2,2
+Q441,Marisa Prisa,F18S02,Javier Eijo,"May 9, 1993",Male,NA,"Burela, GA, Spain",Pageant,,12,0,0,0,0
+Q442,Onyx,F18S02,Pablo Durango,"May 29, 1988",Genderfluid (In Drag)Male (Out of Drag),NA,"Madrid, MD, Spain",Spooky,,8,1,1,0,0
+Q443,Samantha Ballentines,F18S02,Francisco José Sánchez Jiménez,"July 13, 1986",Male,NA,"Cádiz, AN, Spain",Pageant,1,10,0,0,0,2
+Q444,Sharonne,F18S02,Cristóbal Garrido,"June 1, 1976",Male,NA,"Barcelona, CT, Spain",Pageant,,1,1,4,5,0
+Q445,Venedita Von Däsh,F18S02,Borja Lison,"April 7, 1991",Male,"Elche, VC, Spain","Madrid, MD, Spain",Look,,3,3,2,3,1
+Q446,The Vivienne,F11S07,James Williams,"April 12, 1992",NA,"Colwyn Bay, Denbighshire, Wales, UK","Liverpool, Merseyside, England, UK",Pageant,,8,6,3,1,0
+Q447,Elips,F21S01,Ely Mechain,26,NA,NA,"Bordeaux, NAQ, France",Club,1,6,2,0,1,0
+Q448,Kam Hugh,F21S01,Camille Chailan,"July 14, 1998",NA,"Aubenas, ARA, France","Paris, IDF, France",Look,,7,1,1,0,0
+Q449,La Big Bertha,F21S01,Loïc Assemat,36,NA,"Castres, OCC, France","Paris, IDF, France",Comedy ,,5,0,0,2,1
+Q450,La Briochée,F21S01,Maëva Trioux,31,Female,"Royan, NAQ, France","Palaiseau, Paris, IDF, France",Comedy ,,8,2,0,0,0
+Q451,La Grande Dame,F21S01,Yannick Martin Androf,23,NA,"Nice, PAC, France","Paris, IDF, France",Club,,2,2,2,2,0
+Q452,La Kahena,F21S01,Malek Ben Halima,29,NA,"Tunis, Tunisia","Paris, IDF, France",Spooky,,10,0,0,0,0
+Q453,Lolita Banana,F21S01,Esteban Inzúa,NA,NA,NA,"Paris, IDF, France",Pageant,,4,2,0,2,1
+Q454,Lova Ladiva,F21S01,Sébastien Ducellier,32,NA,"Toulouse, OCC, France","Paris, IDF, France",Pageant,,9,0,0,0,1
+Q455,Paloma,F21S01,Hugo Bardin,"June 30, 1991",NA,"Clermont-Ferrand, ARA, France","Paris, IDF, France",Pageant,,1,1,3,2,1
+Q456,Soa de Muse,F21S01,Soa,30,Non-Binary,"Saint-Denis, Paris, IDF, France","Paris, IDF, France",Club,,3,0,3,2,2
+Q457,Bombae,F15S03,NA,NA,NA,"Mumbai, India","Toronto, ON, Canada",Spooky,,7,2,0,1,0
+Q458,Chelazon Leroux,F15S03,Layten Byhette,NA,Two-Spirit,NA,"Saskatoon, SK, Canada",Pageant,,10,1,0,1,0
+Q459,Gisèle Lullaby,F15S03,Simon Gosselin,NA,NA,NA,"Montréal, QC, Canada",Club,,1,3,2,1,1
+Q460,Halal Bae,F15S03,Sherif Taalab,NA,NA,Kuwait,"Toronto, ON, Canada",Club,,12,0,0,0,0
+Q461,Irma Gerd,F15S03,Jason Wells,NA,NA,NA,"St. John's, NL, Canada",Comedy ,,6,1,0,2,1
+Q462,Jada Shada Hudson,F15S03,NA,NA,Male,Barbados,"Toronto, ON, Canada",Club,,2,1,1,3,2
+Q463,Kaos,F15S03,Jesilo Devon Bernard,"April 16, 1994",Non-Binary,"Winnipeg, MB, Canada","Calgary, AB, Canada",Spooky,,9,1,0,1,0
+Q464,Kimmy Couture,F15S03,Louent Essar Lampong,NA,Female,Philippines,"Ottawa, ON, Canada",Pageant,,3,2,1,2,2
+Q465,Lady Boom Boom,F15S03,Henri Delisle Langlois,NA,NA,"Quebec City, QC, Canada","Quebec City, QC, Canada",Look,,8,2,1,1,0
+Q466,Miss Fiercalicious,F15S03,Paulo Fortes,NA,NA,"Toronto, ON, Canada","Toronto, ON, Canada",Look,,4,2,2,3,1
+Q467,Miss Moço,F15S03,Adam Moço,NA,NA,NA,"Toronto, ON, Canada",Pageant,,11,0,0,0,1
+Q468,Vivian Vanderpuss,F15S03,Mackenzie Lemire,NA,NA,NA,"Victoria, BC, Canada",Comedy ,1,5,4,1,2,0
+Q469,Aubrey Haive,F17S02,Bailey Cameron Dunnage,TBA,NA,NA,"Melbourne, Australia",Pageant,,9,1,0,0,0
+Q470,Beverly Kills,F17S02,Reece Jackson Perry,TBA,NA,NA,"Brisbane, Australia",Club,,5,3,0,0,2
+Q471,Faúx Fúr,F17S02,NA,TBA,NA,NA,"Sydney, Australia",Look,,10,0,0,0,0
+Q472,Hannah Conda,F17S02,Chris Collins,TBA,NA,NA,"Sydney, Australia",Pageant,,2,1,3,2,1
+Q473,Kween Kong,F17S02,Thomas Fonua,TBA,NA,NA,"Adelaide, Australia",Pageant,,3,2,2,0,2
+Q474,Minnie Cooper,F17S02,Aaron Farley,49,NA,NA,"Syndey, Australia",Comedy ,,7,2,0,1,0
+Q475,Molly Poppinz,F17S02,Ricky Eldridge,TBA,NA,NA,"Newcastle, Australia",Comedy ,,4,3,1,0,1
+Q476,Pomara Fifth,F17S02,Brad Kennedy,"May 15, 1993",NA,"Sydney, Australia","Sydney, Australia",Comedy ,,8,2,0,0,0
+Q477,Spankie Jackzon,F17S02,Blair Macbeth,"November 4, 1984",NA,NA,"Palmerston North, New Zealand",Comedy ,,1,0,3,3,1
+Q478,Yuri Guaii,F17S02,Eliot Ireland,25,NA,NA,"Auckland, New Zealand",Pageant,,6,0,1,2,0
