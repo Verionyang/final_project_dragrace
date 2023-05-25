@@ -4,6 +4,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.ensemble import AdaBoostRegressor
+from sklearn.preprocessing import StandardScaler
 import spotipy
 import json
 from spotipy.oauth2 import SpotifyClientCredentials
