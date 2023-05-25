@@ -369,3 +369,40 @@ def lip_sync_recommender():
     print(colored("Now its' time for you to lip sync FOR YOUR LIFE! Good luck & Don't f**k it up!",'black',attrs=['bold']))
     cprint('**************************************','green',attrs=['bold'])
     return song_choice
+
+def drag_name():
+    data = pd.read_csv('../Data/cleaned/all_season_results.csv')
+    drag_name = pd.read_csv('../Data/cleaned/drag_name.csv')
+    while True:
+        try:
+            mother = input("Please type the name of your drag mother: \n")
+        except ValueError:
+            print("Sorry I don't understand.")
+            continue 
+        if mother not in list (data['name']):
+            print("Please check the name and enter again.")
+        else:
+            break
+    
+    first_input = input("Please enter your first name: \n")
+    first_name = list(drag_name['first_name'][drag_name['first_letter']==list(first_input)[0]])[0]
+    
+    while True:
+        try:
+            choice = input("Would you like to take your drag mother's name as part of your new name? \n A.Yes     B.No\n")
+        except ValueError:
+            print("Sorry I don't understand.")
+            continue 
+        if choice not in ['A','B']:
+            print("Please enter only A or B to continue.")
+        else:
+            break
+    if choice == "A":
+        last_name = mother.split(" ")[-1]
+        name = first_name+" "+last_name
+    else: 
+        last_input = input("Please enter your last name: \n")
+        last_name = list(drag_name['surname'][drag_name['first_letter']==list(last_input)[0]])[0]
+        name = first_name+" "+last_name
+
+    return name

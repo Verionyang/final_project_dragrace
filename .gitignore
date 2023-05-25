@@ -1,3 +1,5 @@
 final_term/
+requirements.in
+requirements-dev.in
 src/_pycache_
 Notebooks/.ipynb_checkpoints/
