@@ -39,6 +39,17 @@ This application is to help you find your drag mother among all contestants list
 
 ![plot](./Images/drag-mother.png)
 
+## Drag name creator
+Shakespeare once said: 
+> A rose by any other name would smell as sweet.
+
+But when it comes to drag business, a name is truly important. 
+With drag, your name should be: 
+1. Memorable
+2. About you
+
+This application helps you find your drag name based on the drag mother who just adopted you. But alternatively, you will also get a drag name based on your full name. 
+
 ## Lip sync Spotify look-up
 This application collects all the lip sync songs competed in Rupaul's Drag Race herstory. It will ask your music preference and recommend you a lip sync song to your liking. 
 The original song list comes from an existing playlist on Spotify: [RuPaul Lip Syncs Playlist](https://open.spotify.com/playlist/49xR85Shg0IuVS9xkcfNm6)
